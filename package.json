@@ -1,0 +1,43 @@
+{
+  "name": "profile-readme-template",
+  "version": "1.0.0",
+  "description": "A customizable GitHub Profile README template",
+  "homepage": "https://github.com/silahgee/profile-readme-template#readme",
+  "bugs": {
+    "url": "https://github.com/silahgee/profile-readme-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silahgee/profile-readme-template.git"
+  },
+  "private": "true",
+  "author": {
+    "name": "Richard Szilagyi",
+    "url": "https://rickyp.xyz"
+  },
+  "type": "module",
+  "keywords": [
+    "github",
+    "github-profile",
+    "profile-readme",
+    "readme",
+    "readme-template",
+    "github-profile-readme",
+    "template"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsx build.ts",
+    "test": "tsx build.ts --test",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm test",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
