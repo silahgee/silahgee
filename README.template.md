@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="{{logo}}" alt="{{github_username}} logo">
+  <img src="{{logo}}" alt="{{github_username}} logo" width="250px" style="max-width: 250px;">
 </p>
 
 <h1 align="center">Hello there, I'm {{firstname}}!</h1>

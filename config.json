@@ -1,9 +1,9 @@
 {
-    "firstname": "",
-    "lastname": "",
-    "github_username": "",
-    "website": "",
-    "email": "",
-    "twitter_username": "",
-    "logo": ""
+    "firstname": "Richard",
+    "lastname": "Szilagyi",
+    "github_username": "silahgee",
+    "website": "rickyp.xyz",
+    "email": "riszilagyi0@gmail.com",
+    "twitter_username": "silahgee",
+    "logo": "./assets/dino-500.png"
 }
