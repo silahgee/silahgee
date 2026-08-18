@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://{{website}}" target="_blank">{{website}}</a> │
-    <a href="mailto:{{email}}?subject=New%20message%20sent%20from%20Github">{{email}}</a> │
+    <a href="mailto:{{email}}?subject=New%20message%20from%20someone%20on%20Github">{{email}}</a> │
     <a href="https://x.com/{{twitter_username}}" target="_blank">@{{twitter_username}}</a>
 </p>
 
